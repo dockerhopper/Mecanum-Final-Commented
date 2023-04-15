@@ -10,16 +10,16 @@ Please note that if you have your own laptap you are allowed to use that, it's m
 # <ins>Installation</ins>
 PRE NOTE:   Do an offline installation since you won't have wifi at the arena. 
 
-1:  uninstall everything on the computer, there is very limited space and we ran into issues early on with the space so this step is 
+1.  uninstall everything on the computer, there is very limited space and we ran into issues early on with the space so this step is 
       mandatory if you're using the schools laptop.
 
-2:  Go to [HERE](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html) and just follow the steps there.
+2.  Go to [HERE](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html) and just follow the steps there.
     Note, DO NOT USE LABVIEW
 
-3:  Once you get to the FRC game tools, just follow the guide. Mr. W will have the account info that you have to input so that 
+3.  Once you get to the FRC game tools, just follow the guide. Mr. W will have the account info that you have to input so that 
     You can actually use the tools there.
     
-4:  One you get to this screen
+4.  One you get to this screen
 
 <img src="https://user-images.githubusercontent.com/43023776/232171568-3c3d14ad-1675-4ef2-8958-7f4fe742d127.JPG" width="600">
 
